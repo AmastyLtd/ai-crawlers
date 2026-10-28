@@ -1,0 +1,21 @@
+{
+    "training": {
+        "gptbot": "GPTBot",
+        "claudebot": "ClaudeBot",
+        "google_extended": "Google-Extended",
+        "ccbot": "CCBot",
+        "applebot_extended": "Applebot-Extended",
+        "meta_externalagent": "Meta-ExternalAgent"
+    },
+    "search": {
+        "oai_searchbot": "OAI-SearchBot",
+        "perplexitybot": "PerplexityBot",
+        "claude_searchbot": "Claude-SearchBot",
+        "meta_webindexer": "Meta-WebIndexer",
+        "amazonbot": "Amazonbot"
+    },
+    "user_triggered": {
+        "chatgpt_user": "ChatGPT-User",
+        "claude_user": "Claude-User"
+    }
+}
